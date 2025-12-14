@@ -1,5 +1,6 @@
-###uv astral
-  ```uv run --with jupyter jupyter lab
+### uv astral
   ```
-###Anything else
+  uv run --with jupyter jupyter lab
+  ```
+### Anything else
   just use as normal with venv
